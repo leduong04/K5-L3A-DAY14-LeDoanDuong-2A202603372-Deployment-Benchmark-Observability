@@ -1,7 +1,7 @@
 # Benchmark & Observability Report — Day 14
 
-**Họ tên:** Le Doan Duong  
-**Ngày:** 2026-11-25  
+**Họ tên:** Le Doan Duong
+**Ngày:** 2026-11-25
 **Môi trường:** Linux / Python 3.12. Docker CLI có mặt nhưng daemon từ chối socket (`permission denied`). Package index không phân giải DNS nên không cài được FastAPI/Uvicorn/Redis.
 
 > Các phép đo bên dưới chưa chạy được. Không dùng số minh họa trong hướng dẫn làm bằng chứng. Hãy chạy lại trong môi trường có dependencies và Docker, rồi điền JSON/CSV/screenshot thật.

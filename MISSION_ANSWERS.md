@@ -1,6 +1,6 @@
 # Day 14 Lab — Mission Answers
 
-**Sinh viên:** Le Doan Duong (theo tên repository)  
+**Sinh viên:** Le Doan Duong (theo tên repository)
 **Môi trường làm bài:** Linux, Python 3.12; Docker CLI có nhưng Docker daemon từ chối kết nối. Dependencies Python không thể tải vì môi trường không có DNS/network.
 
 > Các bước cần Railway/Render, Docker daemon, hoặc màn hình Grafana/Jaeger được đánh dấu rõ. Không ghi URL, screenshot hay kết quả đo không có thật.
